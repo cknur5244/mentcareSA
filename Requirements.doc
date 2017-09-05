@@ -3,31 +3,16 @@ I'm not entirely sure what all that means, but hopefully we'll know more after t
 I will explain what functional and non-functional requirements are
 
 Functional Requirements:
-1. details of patient information~~~patient must be able to enter information in appropriate order in order to facilitate the next steps. 
-2. authorization of patient information~~~ information mustgo through the proper channels in order to determine information correctness? I.e. : a credit card number along with the ccv number
-3. UI ( Login screens, main page, tabbed interfaces, etc) ~~~Screen to screen must flow cohesively and be simple in order to increase usablity and understanding 
-of the screen a user is on. I.E.: the submit button of any page is easy to find!
-4. 
-5. adjustments/cancellations~~~If a patient must cancel and appointment or adjust the time of an appointment they must be able to contact the person in charge
-directly with the expectation that they will be responded to quickly with either a confirmation or denial and option to reschedule 
-6. will provide access to the complete medical record (all notes, letters, results, measurements, medications, procedures...)~~~all notes letters
-results... etc must be made readily availabe to patient in an easy to read and understand way to that they are able to understand and share the 
-information with relevant care providers
-7. will provide access to the complete personal health record~~~ patient should have access to all past health records in order to better understand their diagnosis
-8. consumers must be able to identify and edit information in their medical record that is out of date or incorrect.~~~if address contact info... etc is out of date user should 
-be able to easily edit and correct the information in order to to provide the most direct information in their specified method
-9. will allow consumers to easily transfer information to and from other practices, providers or hospitals.~~~ if a user is moving for example they must be able to access
-records and send them vto relevant care providers in prder to provide smooth transition form practice to practice
-10.will provide access to the medical record in case of an emergency.~~~ If a user faces an emergency the system must offer a bypass option for relevant 
-personal in order to ensure quick access of the patient records, allergies... etc
-11.will support communication and collaboration between all providers involved in a consumer's care.~~~must promote the communication between health care providers
-such as specialist to specialist. Contact information should be provided for each health care provider 
-12.will be directly integrated with trusted health education content and provide context-based search directly from the medical record.~~~if patient does not understand a
-diagnosis or prescription they must be provided with the definition or a direct way to find or contact someone who can provide them with the correct 
-factual information
-13.will clearly present lab and other test results in a format understandable to consumers as well as offering context-based health education.
-14.will provide access to treatment/service/care plans and the capability to download, print or share these documents.
-15.
+1. details of patient information
+2. authorization of patient information
+3. UI ( Login screens, main page, tabbed interfaces, etc)
+4. Authentication
+5. adjustments/cancellations
+6.
+7.
+8.
+9.
+10.
 
 Non Functional Requirements:
 1. Security
